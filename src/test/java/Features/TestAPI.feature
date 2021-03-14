@@ -1,4 +1,4 @@
-Feature: Post item
+Feature: Post Request using Rest Assured & Cucumber
 
   Background: Use endpoint posts
     Given use endpoint posts
